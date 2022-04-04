@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "name": "Бургер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/X4eyRrugynKehEm2Wr8YEZeo.png"
+  },
+  {
+    "id": 2,
+    "name": "Бургер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/X4eyRrugynKehEm2Wr8YEZeo.png"
+},
+  {
+    "id": 3,
+    "name": "Бургер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/X4eyRrugynKehEm2Wr8YEZeo.png"
+},
+  {
+    "id": 4,
+    "name": "Бургер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/X4eyRrugynKehEm2Wr8YEZeo.png"
+},
+  {
+    "id": 5,
+    "name": "Бургер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/X4eyRrugynKehEm2Wr8YEZeo.png"
+},
+  {
+    "id": 6,
+    "name": "Бургер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/X4eyRrugynKehEm2Wr8YEZeo.png"
+},
+  {
+    "id": 7,
+    "name": "Бургер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/X4eyRrugynKehEm2Wr8YEZeo.png"
+},
+  {
+    "id": 8,
+    "name": "Твистер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/ogn97hthc1tfrzst377c7soj0auc"
+},
+  {
+    "id": 9,
+    "name": "Твистер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/ogn97hthc1tfrzst377c7soj0auc"
+},
+  {
+    "id": 10,
+    "name": "Твистер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/ogn97hthc1tfrzst377c7soj0auc"
+},
+  {
+    "id": 11,
+    "name": "Твистер",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/ogn97hthc1tfrzst377c7soj0auc"
+},
+  {
+    "id": 12,
+    "name": "3 стрипса",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/MTnB3ERP1htqWFwPo99GF3Vd.png"
+},
+  {
+    "id": 13,
+    "name": "3 стрипса",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/MTnB3ERP1htqWFwPo99GF3Vd.png"
+},
+  {
+    "id": 14,
+    "name": "3 стрипса",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/MTnB3ERP1htqWFwPo99GF3Vd.png"
+},
+  {
+    "id": 15,
+    "name": "3 стрипса",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/MTnB3ERP1htqWFwPo99GF3Vd.png"
+},
+  {
+    "id": 16,
+    "name": "Баскет",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/2umcoq89ci3i9lfknj6qbo9sc1uc"
+},
+  {
+    "id": 17,
+    "name": "Баскет",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/2umcoq89ci3i9lfknj6qbo9sc1uc"
+},
+  {
+    "id": 18,
+    "name": "Баскет",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/2umcoq89ci3i9lfknj6qbo9sc1uc"
+},
+  {
+    "id": 19,
+    "name": "Баскет",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/2umcoq89ci3i9lfknj6qbo9sc1uc"
+},
+  {
+    "id": 20,
+    "name": "Снек",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/cgU1tWPHTBj4WDX3m43MR1kx.png"
+},
+  {
+    "id": 21,
+    "name": "Снек",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/cgU1tWPHTBj4WDX3m43MR1kx.png"
+},
+  {
+    "id": 22,
+    "name": "Снек",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/cgU1tWPHTBj4WDX3m43MR1kx.png"
+},
+  {
+    "id": 23,
+    "name": "Снек",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/cgU1tWPHTBj4WDX3m43MR1kx.png"
+},
+  {
+    "id": 24,
+    "name": "Соус",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/UDPyJBVmKhnzweYe9kwWSGyJ.png"
+},
+  {
+    "id": 25,
+    "name": "Соус",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/UDPyJBVmKhnzweYe9kwWSGyJ.png"
+},
+  {
+    "id": 26,
+    "name": "Соус",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/UDPyJBVmKhnzweYe9kwWSGyJ.png"
+},
+  {
+    "id": 27,
+    "name": "Соус",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/UDPyJBVmKhnzweYe9kwWSGyJ.png"
+},
+  {
+    "id": 28,
+    "name": "Напиток",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/8y2VuNHBecNA5p7uetrUSPnu.png"
+},
+  {
+    "id": 29,
+    "name": "Напиток",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/Cr8abMZxqCz9hVQ2qvV7bFTL.png"
+},
+  {
+    "id": 30,
+    "name": "Напиток",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/Cr8abMZxqCz9hVQ2qvV7bFTL.png"
+},
+  {
+    "id": 31,
+    "name": "Напиток",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/Cr8abMZxqCz9hVQ2qvV7bFTL.png"
+},
+  {
+    "id": 32,
+    "name": "Чай",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/Cr8abMZxqCz9hVQ2qvV7bFTL.png"
+},
+  {
+    "id": 33,
+    "name": "Чай",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/Cr8abMZxqCz9hVQ2qvV7bFTL.png"
+},
+  {
+    "id": 34,
+    "name": "Чай",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/Cr8abMZxqCz9hVQ2qvV7bFTL.png"
+},
+  {
+    "id": 35,
+    "name": "Чай",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/Cr8abMZxqCz9hVQ2qvV7bFTL.png"
+},
+  {
+    "id": 36,
+    "name": "Десерт",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 37,
+    "name": "Десерт",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 38,
+    "name": "Десерт",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 39,
+    "name": "Десерт",
+    "price": "144",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 40,
+    "name": "ХИТ 50",
+    "price": "50",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 41,
+    "name": "ХИТ 50",
+    "price": "50",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 42,
+    "name": "ХИТ 50",
+    "price": "50",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 43,
+    "name": "ХИТ 50",
+    "price": "50",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 44,
+    "name": "ХИТ 51",
+    "price": "51",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 45,
+    "name": "ХИТ 51",
+    "price": "51",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 46,
+    "name": "ХИТ 51",
+    "price": "51",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+},
+  {
+    "id": 47,
+    "name": "ХИТ 51",
+    "price": "51",
+    "delivery": true,
+    "img": "https://s82079.cdn.ngenix.net/330x0/offp47yk8o27it2tdqtx1vy3eqeg"
+  }
+]
